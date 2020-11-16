@@ -6,7 +6,7 @@ Desenvolvendo uma Progressive Web Application com React para mapear os dados do 
 
 
 
-![Imagem do aplicativo](./src/assets/images/covidscreen.png)
+<img src="https://github.com/AnGaIs/PWACovid19/blob/master/src/img/covidscreen.PNG" alt="Interface" style="zoom:40%;" />
 
 
 
